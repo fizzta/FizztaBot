@@ -58,13 +58,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpMessage =""" [ɴ̷̣̎ɪ̶̚͜ɢ̶̤̄ʜ̶̟́ᴛ̵̩̍ ̶̬͠ʀ̴̲͘ᴀ̸̮̃ɪ̸͙͂ᴅ̴͙́ ̶̲͌ᴛ̷̖̇ᴇ̷͖͘ᴀ̵̆ͅᴍ̴͇̈́]
-My Owner : [ᴊ̸̝̄ʜ̸̲͘ᴏ̷̰̇ɴ̶͙́]
--==================-
-◄]·♦·Menu For Public·♦·[►
-[•]Info Group
-[•]Welcome
-[•]Creator
-[•]Bot
+My Owner : [ᴊ̸̝̄ʜ̸̲͘ᴏ̷̰̇ɴ̶͙́]"""
 
 setgroup="""◄]·♦·Menu For Admin·♦·[►
 -==================-
@@ -79,7 +73,7 @@ setgroup="""◄]·♦·Menu For Admin·♦·[►
 [•]Tagall 
 [•]Absen/Respon""" 
 
->>[Perintah Proteksi]<< 
+""">>[Perintah Proteksi]<< 
 👑Hanya Untuk Owner👑
 -==================-
 [•]Allbio: <text> [Change All Status Bot]
