@@ -64,9 +64,9 @@ My Owner : [ᴊ̸̝̄ʜ̸̲͘ᴏ̷̰̇ɴ̶͙́]
 [•]Info Group
 [•]Welcome
 [•]Creator
-[•]Bot"""
+[•]Bot
 
-setgrup="""◄]·♦·Menu For Admin·♦·[►
+setgroup="""◄]·♦·Menu For Admin·♦·[►
 -==================-
 [•]Cancel 
 [•]「Buka/Tutup」qr 
@@ -79,7 +79,7 @@ setgrup="""◄]·♦·Menu For Admin·♦·[►
 [•]Tagall 
 [•]Absen/Respon""" 
 
-""">>[Perintah Proteksi]<< 
+>>[Perintah Proteksi]<< 
 👑Hanya Untuk Owner👑
 -==================-
 [•]Allbio: <text> [Change All Status Bot]
@@ -3069,10 +3069,9 @@ def bot(op):
         if op.type == 59:
             print op
 
-
     except Exception as error:
         print error
-	
+
 def restart_program():
     python = sys.executable
     os.execl(python,python,*sys.argv)
